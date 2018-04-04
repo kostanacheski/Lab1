@@ -1,0 +1,11 @@
+commit 9925a17811be7dcf812d12cdd3e340007cbc6a3a (HEAD -> logging, origin/master, master)
+Author: kosta.nacheski@students.finki.ukim.mk <kosta.nacheski@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:29:32 2018 +0200
+
+    modify
+
+commit 9ee992ba47c1e7977776071514c2f3ca5364b73b
+Author: kosta.nacheski@students.finki.ukim.mk <kosta.nacheski@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:25:26 2018 +0200
+
+    Initial commit
